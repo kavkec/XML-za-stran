@@ -1,0 +1,130 @@
+<izdelek id="2093">
+			<izdelekID>133595</izdelekID>
+			<EAN>4719331322168</EAN>
+			<izdelekIme>
+				<![CDATA[
+GIGABYTE G1 Gaming GeForce GTX 1080 OC 8GB GDDR5 (GV-N1080G1 GAMING-8GD) grafična kartica
+]]>
+			</izdelekIme>
+			<url>
+				<![CDATA[
+http://www.pcplus.si/gigabyte-g1-gaming-geforce-gtx-1080-oc-8gb-gddr5-gv-n1080g1-gaming-8gd-graficna-kartica.html
+]]>
+			</url>
+			<opis>
+				<![CDATA[
+<p><strong>Grafična kartica GIGABYTE Gaming G1 GTX 1080 8GB (GV-N1080G1 GAMING-8GD)</strong> je del najnovejše generacije NVIDIA grafičnih procesorjev. GAMING G1 serija je narejena za iskanje najboljše grafične izkušnje in ponuja tudi več navijalskih zmogljivosti.<br> Nova serija pod kodnim
+]]>
+				<![CDATA[
+imenom Pascal je narejena je v dolgopričakovanem 16nm proizvodnem procesu, ki omogoča več moči in tranzistorjev in nižjo porabo v manjšem proizvodnem procesu. Ponuja ogromno grafične moči, ki je potrebna za igranje <strong>modernih iger v visokih 4K ločljivostih</strong> z vklopljenimi vsemi podrobnostmi, na več monitorjih in je pripravljena na prihodnost igranja, virtualno resničnost, ki potrebuje še posebno močan sistem. GTX 1080 je na to pripravljena in kompatibilna z vodilnimi 3D očali na tržišču.<br> <br> <strong>NVIDIA G-Sync</strong> tehnologija sinhronizira osveževalni čas monitorja z grafičnim jedrom in tako zagotovi hitrejše in gladkejše igranje.<br> <strong>NVIDIA VR-READY</strong> označuje, da je kartica pripravljena na hitro delovanje in nizke zamike, ki so potrebni za neverjeno virtualno resničnost.<br> <br> <strong>Windforce 3X</strong> hladilni sistem uporablja 2 toplotni cevki iz čistega bakra z neposrednim kontaktom do šipa in unikatno zasnovo ventilatorjev, ki skupaj ponujata odlično odvajanje toplote za najboljše delovanje pri nizkih temperaturah. 3D vdolbine na rezilih ventilatorjev povečajo zračni tok do 23% več od tradicionalnih ventilatorjev.<br> Delno pasivno hlajenje izklopi ventilatorje, če je temperatura pod določeno mejo in tako deluje popolnoma neslišno med pisarniško rabo, gledanjem filmov ali nezahtevnim igranjem. LED indikator na vrhu kartice ponuja hiter pogled na status ventilatorja.<br> <br> Z <strong>16,8 milijona nastavljivih barvnih opcij</strong> in številnimi evetlobnimi efekti lahko sedaj preko XTREME Engine pripomočka izberete pravo shemo za vaš gaming računalnik. Preko <strong>EXTREME Engine</strong> lahko tudi nastavljate nastavitve kartice in še povišate frekvence delovanja in celotno zmogljivost kartice.<br> <br> <strong>Backplate</strong> ponuja trdnost grafični kartici in preprečuje ukrivitev. Poleg tega dodaja še čist in privlačen videz.<br> <strong>Ultra durable</strong> najkakovostnejši materiali in z 6+2 fazno napajanje omogočata boljše navijanje kot običajne različice.<br> <br> <img title="gaming g1" alt="gaming g1" src="http://www.pcplus.si/media/uploaded_images/gaming-g1-logo.jpg" width="800" height="327"></p>
+]]>
+			</opis>
+			<PPC>695.31</PPC>
+			<cenaAkcijska/>
+			<nabavnaCena>637.9</nabavnaCena>
+			<DC>637.9</DC>
+			<DRabat>0</DRabat>
+			<blagovnaZnamka id="GIGABYTE">
+				<![CDATA[ GIGABYTE ]]>
+			</blagovnaZnamka>
+			<davcnaStopnja>22</davcnaStopnja>
+			<kategorija id="86">Grafične kartice</kategorija>
+			<slikaMala>
+				<![CDATA[
+http://www.pcplus.si/media/catalog/product/cache/0/small_image/120x/602f0fa2c1f0d1ba5e241f914e856ff9/1/3/133595.jpg
+]]>
+			</slikaMala>
+			<slikaVelika>
+				<![CDATA[
+http://www.pcplus.si/media/catalog/product/1/3/133595.jpg
+]]>
+			</slikaVelika>
+			<dobava id="0">Ni na zalogi</dobava>
+			<spletnaStranProizvajalca/>
+			<dodatneLastnosti>
+				<lastnost naziv="Proizvajalčeva koda" id="manufacturer_code">
+					<![CDATA[ GV-N1080G1 GAMING-8GD ]]>
+				</lastnost>
+				<lastnost naziv="EAN koda" id="ean_code">
+					<![CDATA[ 4719331322168 ]]>
+				</lastnost>
+				<lastnost naziv="Proizvajalec" id="manufacturer">
+					<![CDATA[ GIGABYTE ]]>
+				</lastnost>
+				<lastnost naziv="Proizvajalec čipovja:" id="proizvajalec_cipovja">
+					<![CDATA[ NVIDIA GeForce ]]>
+				</lastnost>
+				<lastnost naziv="Grafični procesor:" id="graficni_procesor">
+					<![CDATA[ GeForce GTX 1080 ]]>
+				</lastnost>
+				<lastnost naziv="Jedro" id="jedro">
+					<![CDATA[ Pascal GP104-400 ]]>
+				</lastnost>
+				<lastnost naziv="Grafični pomnilnik:" id="graficni_pomnilnik">
+					<![CDATA[ 8 GB GDDR5X ]]>
+				</lastnost>
+				<lastnost naziv="Takt procesorja:" id="takt_procesorja">
+					<![CDATA[
+Boost: 1860 MHz, osnovno: 1721 MHz v OC načinu<br>Boost: 1835 MHz, osnovno: 1695 MHz v Gaming načinu
+]]>
+				</lastnost>
+				<lastnost naziv="Takt pomnilnika:" id="takt_pomnilnika">
+					<![CDATA[ 2502 MHz (10010 MHz GDDR5) ]]>
+				</lastnost>
+				<lastnost naziv="Vodilo:" id="vodilo">
+					<![CDATA[ PCI Express 3.0 ]]>
+				</lastnost>
+				<lastnost naziv="Število procesorskih enot" id="stevilo_procesorskih_enot">
+					<![CDATA[ 2560 ]]>
+				</lastnost>
+				<lastnost naziv="Pomnilniško vodilo" id="pomnilnisko_vodilo">
+					<![CDATA[ 256 bit ]]>
+				</lastnost>
+				<lastnost naziv="Podpira" id="podpira">
+					<![CDATA[
+DirectX 12, OpenGL 4.5, VR Ready, NVIDIA Ansel, NVIDIA SLI, NVIDIA G-SYNC-Ready, GameStream-Ready
+]]>
+				</lastnost>
+				<lastnost naziv="Izhodi:" id="izhodi">
+					<![CDATA[
+1x DL-DVI-D, 3x DisplayPort (v 1.4 - do 7680x4320 @60 Hz), 1x HDMI 2.0b (do 4096x2160 @60 Hz)
+]]>
+				</lastnost>
+				<lastnost naziv="Dodatno napajanje" id="dodatno_napajanje">
+					<![CDATA[ 1x 8 pin PCI express ]]>
+				</lastnost>
+				<lastnost naziv="Dodatno:" id="dodatno">
+					<![CDATA[
+backplate, nastavljanje osvetlitve v 16,8M barv, podpora do 4 zaslone istočasno, do 7680x4320 ločljivost (preko dveh DP 1.3)
+]]>
+				</lastnost>
+				<lastnost naziv="Garancija" id="garancija">
+					<![CDATA[ 36 mesecev ]]>
+				</lastnost>
+				<lastnost naziv="Dimenzije:" id="vga_dimenzije">
+					<![CDATA[ 41 x 280 x 141 mm ]]>
+				</lastnost>
+			</dodatneLastnosti>
+			<dodatneSlike>
+				<dodatnaSlika1>
+					<![CDATA[
+http://www.pcplus.si/media/catalog/product/1/3/133595_1.jpg
+]]>
+				</dodatnaSlika1>
+				<dodatnaSlika2>
+					<![CDATA[
+http://www.pcplus.si/media/catalog/product/1/3/133595_2.jpg
+]]>
+				</dodatnaSlika2>
+				<dodatnaSlika3>
+					<![CDATA[
+http://www.pcplus.si/media/catalog/product/1/3/133595_3.jpg
+]]>
+				</dodatnaSlika3>
+				<dodatnaSlika4>
+					<![CDATA[
+http://www.pcplus.si/media/catalog/product/1/3/133595_4.jpg
+]]>
+				</dodatnaSlika4>
+			</dodatneSlike>
+		</izdelek>
